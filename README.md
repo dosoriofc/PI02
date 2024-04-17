@@ -2,10 +2,10 @@
 
 ## Descripción del Proyecto
 
-- Se tiene como entrada 1 archivo en formato .xlsx suministrado por Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires con el fin de generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales. Para ello, nos disponibilizan un dataset sobre homicidios en siniestros viales acaecidos en la Ciudad de Buenos Aires durante el periodo 2016-2021. Este dataset se encuentra en formato xlsx y contiene dos hojas llamadas: hechos y víctimas
+- Se realizara un proceso de Analisis de Datos con los datos de siniestros viales con victimas factales suministrados por la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires con el fin de generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales. Para ello, nos suministran un dataset sobre homicidios en siniestros viales acaecidos en la Ciudad de Buenos Aires durante el periodo 2016-2021. Este dataset se encuentra en formato xlsx
 - Se genero un archivo en Visual Studio Code / Jupyter con el procesamiento realizado a los datos suminstrados y el Analisis Exploratorio de los Datos (EDA)
-- Se genero un archivo en la aplicacion Power BI en donde se realizo todo el analisis de los datos incluyendo graficos, tablas, medidadas, KPIs y recomendaciones relacionadas con el estado actual de los KPI y como mejorarlos y lograr los objetivos estrategicos establecidos
-- Se realizo el respaldo de todos los datos y archivos generados en GitHub
+- Se genero un Dashboard en la aplicacion Power BI que incluyo todo el analisis de los datos con graficos, tablas, medidadas, KPIs y recomendaciones relacionadas con el estado actual de los KPI y como mejorarlos y lograr los objetivos estrategicos establecidos
+- Se realizo el respaldo de todos los datos y archivos generados en cuenta de GitHub
 
 ## Herramientas usadas
 
@@ -59,47 +59,41 @@ Al analizar los datos de los siniestros ocurridos en los ultimos 2 años se obse
 
 1. Enfocar esfuerzos educativos, preventivos y de vigilancia específicos para las poblaciones con mayor frecuencia de siniestros:
 
-   + Conductores de Motos como victimas más frecuentes en los siniestros:
-
+   + **Conductores de Motos** como victimas más frecuentes en los siniestros:
       + Sexo: masculino
-
       + Edad: entre 20 y 32 años
 
-   * Peatones como victimas muy frecuentes en los siniestros
+   + **Peatones** como victimas muy frecuentes en los siniestros
+      + Edad: entre 55 y 85 años
 
-     - Edad: entre 55 y 85 años
+   + Conductores causantes de siniestros en mayor frecuencia
+      + **Conductores de Autos y Vehículos de Carga** como mayores causantes de victimas en motos
+      + **Conductores de Transporte Público y Vehículos de Carga** como mayores causantes de victimas peatones
 
-   * Conductores de Autos y Vehículos de Carga como mayores causantes de victimas en motos, y Conductores de Transporte Público y Vehículos de Cargas como mayores causantes de victimas peatones
+2. Enfocar los esfuerzos educativos, preventivos y de vigilancia en lugares con mayor cantidad de victimas registradas:
+   + **Avenidas:**   Av. General Paz, Av. Rivadavia y Av. del Libertador (principalmente en los cruces de estas avenidas con otras calles)
 
-
-
-2. Enfocar los esfuerzos educativos, preventivos y de vigilancia en lugares con mayor cantidad de victimas:
-
-   - Avenidas:   Av. General Paz, Av. Rivadavia y Av. del Libertador (principalmente en los cruces de estas avenidas con otras calles)
-
-   - Comunas: 1, 4, 8 y 9 
-
-
+   + **Comunas:** 1, 4, 8 y 9 
 
 3. Enfocar los esfuerzos educativos, preventivos y de vigilancia en los lapsos de tiempo con mayor cantidad de victimas:
 
-   - Horas entre 4 y 7 am , principalmente los días Sábados y Domingo (solo esta franja horaria presenta el 10% de las victimas)   
+   + Horas entre las **4am y 7 am**, principalmente los días **Sábados y Domingo** (solo esta franja horaria presenta el 10% de las victimas)  
 
+4. Con Base al análisis presentado, so logra demostrar que alcanzar los objetivos establecido para los KPI1 y KPI 2 se podría lograr de varias maneras, sin embargo se recomienda enforcar y optimizar recursos en aquellas medidas que hagan más probables lograr el éxito deseado de la manera mas eficiente:
 
+    + Por ejemplo, si se logra **disminuir en sólo un 15% el número de siniestros mortales en motos** que ocurren sólo los días **sábados y domingo en el horario comprendido entre 4am y 7am** se lograria reducir la tasa de homicidios por siniestros viales del último trimestre en un 5% y reducir el total de siniestros en moto del último año en un 7% alcanzando los objetivos indicados por los 2 KPI planteados
 
-4. Con Base al análisis presentado, alcanzar los objetivos  establecido para los KPI1 y KPI 2 se podría lograr de varias maneras, sin embargo se recomienda enforcar y optimizar recursos en aquellas medidas que hagan más probables lograr el éxito deseado de la manera mas eficiente:
+5. A pesar de las medidas que se hayan logrado implementar en el pasado, no se nota un descenso consistente de las victimas por mas de 2 trimestres consecutivos (a excepción del año 2021) por lo que se recomienda generar planes para disminuir la siniestralidad, las victimas y los KPI seleccionados que sean a largo plazo para que los logros obtenidos sean consistente por mas de 1 año y no haya un efecto rebote como se observó en el análisis realizado 
 
-    - Por ejemplo, si se logra disminuir en sólo un 15% el número de siniestros mortales en motos que ocurren sólo los días sábados y domingo en el horario de 5 a 7 am se lograría reducir la tasa de homicidios por siniestros viales del último trimestre en un 5% y reducir el total de siniestros en moto del último año en un 7%
+Agradecemos la confianza depositada por la Secretaría de Transporte en **SoyHenry** para lograr este importante objetivo de **lograr una Ciudad Autónoma de Buenos Aires mucho mas segura para todos los actores viales de la ciudad** 
 
+### Repositorio de GitHub
 
+Se creo un repositorio en l plataforma de GitHub invcluyendo un Readme con las caracteristicas del proyecto su proyecto, los resultados obtenidos y recomendaciones, asi como los links a los documentos y datos empleados y generados en el desarrollo del proyecto 
 
-5. A pesar de las medidas que se hayan podido implementar en el pasado, no se nota un descenso consistente de las victimas por mas de 2 trimestres consecutivos (a excepción del año 2021) por lo que se recomienda generar planes para disminuir la siniestralidad, las victimas y los KPI seleccionados que sean a largo plazo para que los logros obtenidos sean consistente por mas de 1 año y no haya un efecto rebote como se observó en el análisis realizado 
+Ver Repositorio en GitHub: [Repositorio GitHub](https://github.com/dosoriofc/PI02)
 
+### Datos Empleados
+Los datos inicialmente entregados para el desarrollo del proyecto se encuentran en un archivo en formato excel denominado homicidios.xlsx y contienes dos tablas: una denominada **hechos** con los datos que caracterizan el siniestro vial y otra denominada **victimas** con los datos que caracterizan a las victimas fatales del siniestro vial
 
-
-
-
-Agradecemos la confianza depositada por la Secretaría de Transporte en esta importante labor, con el objetivo de lograr una Ciudad Autónoma de Buenos Aires mucho mas segura para todos los actores viales de la ciudad 
-
-
-
+Ver dataset original: [Dataset Original](https://github.com/dosoriofc/PI02/tree/main/dataset)
