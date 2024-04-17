@@ -79,7 +79,7 @@ Al analizar los datos de los siniestros ocurridos en los ultimos 2 años se obse
 
    + Horas entre las **4am y 7 am**, principalmente los días **Sábados y Domingo** (solo esta franja horaria presenta el 10% de las victimas)  
 
-4. Con Base al análisis presentado, so logra demostrar que alcanzar los objetivos establecido para los KPI1 y KPI 2 se podría lograr de varias maneras, sin embargo se recomienda enforcar y optimizar recursos en aquellas medidas que hagan más probables lograr el éxito deseado de la manera mas eficiente:
+4. Con Base al análisis presentado, se logra demostrar que alcanzar los objetivos establecido para los KPI1 y KPI 2 se podría lograr de varias maneras, sin embargo se recomienda enforcar y optimizar recursos en aquellas medidas que hagan más probables lograr el éxito deseado de la manera mas eficiente:
 
     + Por ejemplo, si se logra **disminuir en sólo un 15% el número de siniestros mortales en motos** que ocurren sólo los días **sábados y domingo en el horario comprendido entre 4am y 7am** se lograria reducir la tasa de homicidios por siniestros viales del último trimestre en un 5% y reducir el total de siniestros en moto del último año en un 7% alcanzando los objetivos indicados por los 2 KPI planteados
 
