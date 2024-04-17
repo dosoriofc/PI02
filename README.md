@@ -49,11 +49,17 @@ Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el últi
 
 En donde se define la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. 
 
+#### KPI 3:
+Reducir en un 10% la cantidad de victimas peatones en el último año, en CABA, respecto al año anterior.
+
 #### Resultados Obtenidos KPI 1:
 Al analizar los datos de los ultimos 2 trimestres se observa que la tasa de homicidios en siniestros viales del ultimo trimestre aumento un 10% en lugar de disminuir el 5% que era el objetivo deseado, por lo que no se logro alcanzar este objetivo estrategico 
 
 #### Resultados Obtenidos KPI 2:
 Al analizar los datos de los siniestros ocurridos en los ultimos 2 años se observa que la cantidad accidentes mortales de motociclistas en siniestros viales en el ultimo año aumento un 70% en lugar de disminuir el 7% que era el objetivo deseado, por lo que no se logro alcanzar este objetivo estrategico 
+
+#### Resultados Obtenidos KPI 3:
+Al analizar los datos de las victimas mortales en los ultimos 2 años se observa que la cantidad victimas peatones en el ultimo año disminuyo en un 2.9% en lugar de disminuir el 10% que era el objetivo deseado, por lo que no se logro alcanzar este objetivo estrategico 
 
 ### Conclusiones y Recomendaciones
 
@@ -79,9 +85,9 @@ Al analizar los datos de los siniestros ocurridos en los ultimos 2 años se obse
 
    + Horas entre las **4am y 7 am**, principalmente los días **Sábados y Domingo** (solo esta franja horaria presenta el 10% de las victimas)  
 
-4. Con Base al análisis presentado, se logra demostrar que alcanzar los objetivos establecido para los KPI1 y KPI 2 se podría lograr de varias maneras, sin embargo se recomienda enforcar y optimizar recursos en aquellas medidas que hagan más probables lograr el éxito deseado de la manera mas eficiente:
+4. Con Base al análisis presentado, se logra demostrar que alcanzar los objetivos establecido para los 3 KPI's se podría lograr de varias maneras, sin embargo se recomienda enforcar y optimizar recursos en aquellas medidas que hagan más probables lograr el éxito deseado de la manera mas eficiente:
 
-    + Por ejemplo, si se logra **disminuir en sólo un 15% el número de siniestros mortales en motos** que ocurren sólo los días **sábados y domingo en el horario comprendido entre 4am y 7am** se lograria reducir la tasa de homicidios por siniestros viales del último trimestre en un 5% y reducir el total de siniestros en moto del último año en un 7% alcanzando los objetivos indicados por los 2 KPI planteados
+    + Por ejemplo, si se logra **disminuir en sólo un 15% el número de siniestros mortales en motos** que ocurren sólo los días **sábados y domingo en el horario comprendido entre 4am y 7am** se lograria reducir la tasa de homicidios por siniestros viales del último trimestre en un 5% y reducir el total de siniestros en moto del último año en un 7% alcanzando los objetivos indicados por los primeros KPI's planteados
 
 5. A pesar de las medidas que se hayan logrado implementar en el pasado, no se nota un descenso consistente de las victimas por mas de 2 trimestres consecutivos (a excepción del año 2021) por lo que se recomienda generar planes para disminuir la siniestralidad, las victimas y los KPI seleccionados que sean a largo plazo para que los logros obtenidos sean consistente por mas de 1 año y no haya un efecto rebote como se observó en el análisis realizado 
 
