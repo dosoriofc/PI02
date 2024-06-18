@@ -1,4 +1,4 @@
-# Proyecto de Anális de Datos de Siniestros Viales para la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires
+# Proyecto de Análisis de Datos de Siniestros Viales para la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires
 
 ## Descripción del Proyecto
 
